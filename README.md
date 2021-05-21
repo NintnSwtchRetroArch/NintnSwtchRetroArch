@@ -51,21 +51,4 @@ Funds secured.
 
  * [N7Alpha/UnrealLibretro](http://github.com/N7Alpha/UnrealLibretro)
 
-### Porting N7Alpha/UnrealLibretro to run on NintnSwtch
-
-## development of the Libretro EasterEgg for Unity
-
-### Picking the project to adopt
-  
-   * [Scorr/RetroUnity](http://github.com/Scorr/RetroUnity)
-   * [Skurdt/LibretroUnityFE](http://github.com/Skurdt/LibretroUnityFE)
-
-## Arcade cabinets prefab generation based on MAME data 
-
-## VR mode for dolphin libretro core
-
-### motion controls support
-
-### game specific hooks for camera repositioning
-
-## development of the methods to avoid detection of the wrapper in submitted game binary by store algorithms and personnel
+### Porting N7Alpha/UnrealLibretro to run on Swtch
