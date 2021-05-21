@@ -13,7 +13,25 @@ NintnSwtchRetroArchEasterEggFreeGame
 
 ### creating a Nintn developer accounts and applying for Swtch SDKs
 
+***(See [TUTORIAL]())***
+
+ - Join [NintnSwtchRetroArchSecretCommittee](https://github.com/NintnSwtchRetroArch/NintnSwtchRetroArchSecretCommittee) by leaving comment in github issues [here](https://github.com/NintnSwtchRetroArch/NintnSwtchRetroArch/issues/1)
+ - Remove your comment after receiving access
+ - Add random games/developers from Steam greenlight to [FakeDevelopers.csv](https://github.com/NintnSwtchRetroArch/NintnSwtchRetroArchSecretCommittee/blob/main/FakeDevelopers.csv), fill fields:
+    - **URL (game)**
+    - **Name**
+    - **URL (developer)**
+ - Register email, fill fields:
+    - **registered email**
+    - **registered email's password**
+ - Register Nintn Account, apply with it to Swtch SDK, fill fields:
+    - **registered nintn account password**
+    - **applied for swtch sdk?
+
+
 ### purchasing Swtch Hardware SDKs
+
+Funds secured.
 
 ### publishing of the games with Easter egg
 
