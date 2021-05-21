@@ -39,6 +39,12 @@ Funds secured.
 
 ## development of the free games
 
+### I got a game that I'd like to publish with Easter Egg. What to do?
+
+[contact us](https://github.com/NintnSwtchRetroArch/NintnSwtchRetroArch/issues/2)
+
+
+
 ## development of the Libretro EasterEgg for Unreal Engine
 
 ### Adopting N7Alpha/UnrealLibretro
