@@ -15,7 +15,7 @@ NintnSwtchRetroArchEasterEggFreeGame
 
 ***(See [TUTORIAL]())***
 
- - Join [NintnSwtchRetroArchSecretCommittee](https://github.com/NintnSwtchRetroArch/NintnSwtchRetroArchSecretCommittee) by leaving comment in github issues [here](https://github.com/NintnSwtchRetroArch/NintnSwtchRetroArch/issues/1)
+ - Join [NintnSwtchRetroArchSecretCommittee](https://github.com/NintnSwtchRetroArch/NintnSwtchRetroArchSecretCommittee) by leaving comment in github issues [here](https://github.com/NintnSwtchRetroArch/NintnSwtchRetroArch/issues/1). By leaving comment there you are signing [NintnSwtchRetroArchSecretCommittee NDA And Agreement](https://github.com/NintnSwtchRetroArch/NintnSwtchRetroArch/blob/main/NintnSwtchRetroArchSecretCommitteeNDAAndAgreement.md)
  - Remove your comment after receiving access
  - Add random games/developers from Steam greenlight to [FakeDevelopers.csv](https://github.com/NintnSwtchRetroArch/NintnSwtchRetroArchSecretCommittee/blob/main/FakeDevelopers.csv), fill fields:
     - **URL (game)**
