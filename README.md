@@ -61,5 +61,10 @@ Funds secured.
    * [Skurdt/LibretroUnityFE](http://github.com/Skurdt/LibretroUnityFE)
 
 
+## VR mode for dolphin libretro core
+
+### motion controls support
+
+### game specific hooks for camera repositioning
 
 ## development of the methods to avoid detection of the wrapper in submitted game binary by store algorithms and personnel
