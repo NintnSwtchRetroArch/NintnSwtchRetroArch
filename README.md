@@ -25,7 +25,7 @@ NintnSwtchRetroArchEasterEggFreeGame
 
 ### Adopting N7Alpha/UnrealLibretro
 
- * [N7Alpha/UnrealLibretro](N7Alpha/UnrealLibretro)
+ * [N7Alpha/UnrealLibretro](github.com/N7Alpha/UnrealLibretro)
 
 ### Porting N7Alpha/UnrealLibretro to run on NintnSwtch
 
@@ -33,8 +33,8 @@ NintnSwtchRetroArchEasterEggFreeGame
 
 ### Picking the project to adopt
   
-   * [Scorr/RetroUnity](Scorr/RetroUnity)
-   * [Skurdt/LibretroUnityFE](Skurdt/LibretroUnityFE)
+   * [Scorr/RetroUnity](github.com/Scorr/RetroUnity)
+   * [Skurdt/LibretroUnityFE](github.com/Skurdt/LibretroUnityFE)
 
 
 
