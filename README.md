@@ -60,6 +60,7 @@ Funds secured.
    * [Scorr/RetroUnity](http://github.com/Scorr/RetroUnity)
    * [Skurdt/LibretroUnityFE](http://github.com/Skurdt/LibretroUnityFE)
 
+## Arcade cabinets prefab generation based on MAME data 
 
 ## VR mode for dolphin libretro core
 
