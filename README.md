@@ -52,3 +52,12 @@ Funds secured.
  * [N7Alpha/UnrealLibretro](http://github.com/N7Alpha/UnrealLibretro)
 
 ### Porting N7Alpha/UnrealLibretro to run on Swtch
+
+### running demo game on hololens 2
+
+### demo game scans for key combo and launches libretro/makes surface visible
+
+### running unreal libretro on windows, creating demo game
+
+### compilation of libretro cores
+### installing Ubuntu for Windows for compilation of libretro 
