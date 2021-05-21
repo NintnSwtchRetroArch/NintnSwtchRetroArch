@@ -21,8 +21,21 @@ NintnSwtchRetroArchEasterEggFreeGame
 
 ## development of the free games
 
-## development of the RetroArch wrapper for Unreal Engine
+## development of the Libretro EasterEgg for Unreal Engine
 
-## development of the RetroArch wrapper for Unity
+### Adopting N7Alpha/UnrealLibretro
+
+ * [N7Alpha/UnrealLibretro](N7Alpha/UnrealLibretro)
+
+### Porting N7Alpha/UnrealLibretro to run on NintnSwtch
+
+## development of the Libretro EasterEgg for Unity
+
+### Picking the project to adopt
+  
+   * [Scorr/RetroUnity](Scorr/RetroUnity)
+   * [Skurdt/LibretroUnityFE](Skurdt/LibretroUnityFE)
+
+
 
 ## development of the methods to avoid detection of the wrapper in submitted game binary by store algorithms and personnel
