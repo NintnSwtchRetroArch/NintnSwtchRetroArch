@@ -26,7 +26,7 @@ NintnSwtchRetroArchEasterEggFreeGame
     - **registered email's password**
  - Register Nintn Account, apply with it to Swtch SDK, fill fields:
     - **registered nintn account password**
-    - **applied for swtch sdk?
+    - **applied for swtch sdk?**
 
 
 ### purchasing Swtch Hardware SDKs
